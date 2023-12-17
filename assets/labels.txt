@@ -1,0 +1,14 @@
+0 Bal_ArmillariaOstoyae
+1 Borazan_CraterellusCornucopioides
+2 Corek_BoletusEdulis
+3 Imparator_AmanitaCaesarea
+4 Istiridye_PleurotusOstreatus
+5 Kanlica_LactariusSalmonicolor
+6 f_AgaricusBisporus
+7 KuzuGobegi_MorchellaElata
+8 SigirDili_HydnumRepandum
+9 Z_Agulu_OmphalotusOlearius
+10 Z_OlumMelegi_AmanitaVirosa
+11 Z_Panter_AmanitaPantherina
+12 Z_Seytan_RubroboletusSatanas
+13 Z_Sinek_AmanitaMuscaria
